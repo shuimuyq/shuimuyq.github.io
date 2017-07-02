@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 111111111111Hello World!
+title: Hello World!
 ---
 
 Welcome to my github blog.
