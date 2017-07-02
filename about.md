@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is shuimuyq's personal blog.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Life is filled with challenges. As we get older we come to realize that those challenges are the very things that shape us and make us who we are .
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[shuimuyq@gmail.com](mailto:shuimuyq@gmail.com)
