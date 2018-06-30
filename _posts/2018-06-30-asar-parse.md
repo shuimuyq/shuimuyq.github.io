@@ -1,3 +1,4 @@
+```python
 import json
 import os
 
@@ -53,3 +54,4 @@ def dic_process(dicstr, patharry, ddata):
 dic_process(dicstr, patharry, ddata)
 
 ddata.close()
+```
